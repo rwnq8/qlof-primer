@@ -12,7 +12,7 @@ Based on George Spencer-Brown's *Laws of Form* (1969), this primer extracts the 
 
 ## Read Online
 
-**[rwnq8.github.io/qlos-primer](https://rwnq8.github.io/qlos-primer/)**
+**[rwnq8.github.io/qlof-primer](https://rwnq8.github.io/qlof-primer/)**
 
 ## Structure
 
